@@ -17,7 +17,7 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 
 - **Lenguajes de Programación**: Python
 - **Librerías Principales**: pandas, numpy, scikit-learn, matplotlib, seaborn, Optuna
-- **Plataformas de BI**: (Opcional, según las herramientas que utilices, por ejemplo, Power BI, Tableau)
+- **Plataformas de BI**: (Power BI, Tableau)
 - **Entorno de Desarrollo**: Google Colab, Jupyter Notebook
 
 ## Estructura del Repositorio
