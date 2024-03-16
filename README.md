@@ -20,7 +20,7 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 
 - **Lenguajes de Programación**: Python,R.
 - **Librerías Principales**: pandas, numpy, scikit-learn, matplotlib, seaborn, Optuna,Sklearn.
-- **Entorno de Desarrollo**: Google Colab, Jupyter Notebook,Anaconda,Spyder.
+- **Entorno de Desarrollo**: Google Colab, Jupyter Notebook,Anaconda,Spyder,VsCode.
 
 ## Estructura del Repositorio
 
