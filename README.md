@@ -1,6 +1,9 @@
 # Análisis y Predicción de Fraudes Financieros
 
-Este proyecto se centra en el análisis y predicción de fraudes financieros utilizando técnicas avanzadas de análisis de datos, inteligencia empresarial, ingeniería de datos y aprendizaje automático. El objetivo es identificar patrones fraudulentos en transacciones y prevenir futuros fraudes, proporcionando insights valiosos para la toma de decisiones empresariales.
+Este proyecto se centra en el análisis y predicción de fraudes financieros utilizando técnicas avanzadas de análisis de datos, ingeniería de datos y aprendizaje automático. El objetivo es identificar patrones fraudulentos en transacciones y prevenir futuros fraudes, proporcionando insights valiosos para la toma de decisiones empresariales.
+
+## Ambito del Proyecto
+El ambito de este proyecto se centra en el desarrollo de un MVP(producto mínimo viable),para su posterior financiamiento y desarrollo en un entorno de nube
 
 ## Descripción del Proyecto
 
@@ -9,28 +12,24 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 ### Componentes del Proyecto
 
 - **Análisis de Datos**: Exploración y visualización de los datos para entender las tendencias, patrones y anomalías.
-- **Inteligencia Empresarial**: Desarrollo de dashboards y reportes para comunicar los insights de los datos a stakeholders.
 - **Ingeniería de Datos**: Despliegue del programa, asegurando su calidad y accesibilidad.
 - **Machine Learning**: Creación de modelos predictivos para identificar transacciones fraudulentas.
 
 ## Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: Python
-- **Librerías Principales**: pandas, numpy, scikit-learn, matplotlib, seaborn, Optuna
-- **Plataformas de BI**: (Power BI, Tableau)
-- **Entorno de Desarrollo**: Google Colab, Jupyter Notebook
+- **Lenguajes de Programación**: Python,R
+- **Librerías Principales**: pandas, numpy, scikit-learn, matplotlib, seaborn, Optuna,Sklearn
+- **Entorno de Desarrollo**: Google Colab, Jupyter Notebook,Anaconda,Spyder
 
 ## Estructura del Repositorio
 
-.
+├── https://www.kaggle.com/datasets/ealaxi/paysim1 # Link de descarga del Dataset usado en el proyecto
 
 ├── data/ # Carpeta para datasets usados o generados durante el proyecto
 
 ├── notebooks/ # Jupyter Notebooks para análisis exploratorio y modelos de ML
 
 ├── src/ # Código fuente para scripts de limpieza, análisis y modelos
-
-├── tests/ # Pruebas unitarias para asegurar la calidad del código
 
 ├── requirements.txt # Dependencias del proyecto
 
