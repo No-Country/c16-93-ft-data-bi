@@ -14,7 +14,8 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 - **Análisis de Datos**: Exploración y visualización de los datos para entender las tendencias, patrones y anomalías.
 - **Ingeniería de Datos**: Despliegue del programa, asegurando su calidad y accesibilidad.
 - **Machine Learning**: Creación de modelos predictivos para identificar transacciones fraudulentas.
-- **insights, Conclusiones**: Exposicion de insights,Metricas y Cconclusiones relevantes del proyecto ,de acuerdo al EDA y Machine Learning.
+- **insights, Conclusiones**: Exposicion de insights,Metricas y Cconclusiones relevantes del proyecto ,de acuerdo al EDA y Machine 
+    Learning.
 
 ## Tecnologías y Herramientas
 
@@ -38,9 +39,11 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 
 ## Linkedln de los Participantes
 
-https://www.linkedin.com/in/adrian-szklar/                 ##Data Scientist
-https://www.linkedin.com/in/luceropmatias/                 ##Data Analyst
-https://www.linkedin.com/in/manuel-alejandro-ruiz-miranda/ ##Machine Learning Developer 
+https://www.linkedin.com/in/adrian-szklar/                 **Data Scientist.
+
+https://www.linkedin.com/in/luceropmatias/                 **Data Analyst.
+
+https://www.linkedin.com/in/manuel-alejandro-ruiz-miranda/ **Machine Learning Developer.
 
 ## Cómo Empezar
 
