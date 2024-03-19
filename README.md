@@ -2,8 +2,8 @@
 
 Este proyecto se centra en el análisis y predicción de fraudes financieros utilizando técnicas avanzadas de análisis de datos, ingeniería de datos y aprendizaje automático. El objetivo es identificar patrones fraudulentos en transacciones y prevenir futuros fraudes, proporcionando insights valiosos para la toma de decisiones empresariales.
 
-## Ambito del Proyecto
-El ambito de este proyecto se centra en el desarrollo de un MVP(producto mínimo viable),para su posterior financiamiento y desarrollo en un entorno de nube.
+## Ámbito del Proyecto
+El ámbito de este proyecto se centra en el desarrollo de un MVP(producto mínimo viable) para su posterior financiamiento y desarrollo en un entorno de nube.
 
 ## Descripción del Proyecto
 
@@ -14,7 +14,7 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 - **Análisis de Datos**: Exploración y visualización de los datos para entender las tendencias, patrones y anomalías.
 - **Ingeniería de Datos**: Despliegue del programa, asegurando su calidad y accesibilidad.
 - **Machine Learning**: Creación de modelos predictivos para identificar transacciones fraudulentas.
-- **insights, Conclusiones**: Exposicion de insights,Metricas y Cconclusiones relevantes del proyecto ,de acuerdo al EDA y Machine 
+- **insights, Conclusiones**: Exposicion de insights, métricas y conclusiones relevantes del proyecto, de acuerdo al EDA y Machine 
     Learning.
 
 ## Tecnologías y Herramientas
