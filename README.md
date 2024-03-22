@@ -39,9 +39,9 @@ El proyecto abarca desde la recopilación y limpieza de datos hasta el desarroll
 
 ## Linkedln de los Participantes
 
-https://www.linkedin.com/in/adrian-szklar/                 **Data Scientist.
+https://www.linkedin.com/in/adrian-szklar/                 **Data Analyst.
 
-https://www.linkedin.com/in/luceropmatias/                 **Data Analyst.
+https://www.linkedin.com/in/luceropmatias/                 **BI Analyst.
 
 https://www.linkedin.com/in/manuel-alejandro-ruiz-miranda/ **Machine Learning Developer.
 
